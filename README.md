@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👻 I recently published a new MacOS cli tool [OneWallpaper](https://github.com/chishui/OneWallpaper)👈.
+- 🤤 I'm currently actively working on JSSoup and JSSoupSelector.
+- 🙅 C++ rules! But now I'm a Java developer at work 🤑.
+
 <!--
 **chishui/chishui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
